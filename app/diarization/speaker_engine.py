@@ -40,4 +40,5 @@ class SpeakerDiarizer:
             })
 
         return speaker_segments
-        # return diarization
+        # return diarizat
+        
